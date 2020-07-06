@@ -1,4 +1,4 @@
 # ts-setup
 
-## install first yarn
+## install : yarn
 ## test : yarn test
